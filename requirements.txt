@@ -1,0 +1,6 @@
+tkintertable
+pyshorteners
+clipboard
+requests
+qrcode
+Pillow
