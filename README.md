@@ -26,10 +26,10 @@
    ```
  Install Required Packages
   ```sh
-  pip install -r requirements.text
+  pip install -r requirements.txt
   ```
  Run Program
    ```sh
-   python Shorteners.py
+   python Shortener.py
    ```
 </div>
