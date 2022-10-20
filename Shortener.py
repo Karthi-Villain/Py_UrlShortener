@@ -18,7 +18,7 @@ S=pyshorteners.Shortener()
 root.title("Url Shortner")
 root.geometry('800x540')
 root.config(bg='Light Blue')
-icon=PhotoImage(file='D:/QRCodes/Url_icon.png')
+icon=PhotoImage(file='Url_icon.png')
 root.iconphoto(False,icon)
 root.resizable(False,False)
 
