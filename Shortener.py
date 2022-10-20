@@ -81,7 +81,7 @@ def TinyUrl():
 		Mess.config(bg='#08f7bb',fg='Black')
 		MessageOut.set("Tinly Url Is Generated!")
 	except:
-		Url_input.delete(0, 'END')
+		Url_input.delete(0, END)
 		Mess.config(bg='#ebccd1',fg='red')
 		MessageOut.set('Please, Enter a Valid Url!')
 
